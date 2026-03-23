@@ -11,7 +11,7 @@ import { API_BASE_URL } from "../config";
 
 // Create an Axios instance with the base URL pre-configured
 const api = axios.create({
-  baseURL: API_BASE_URL,
+  baseURL: https://prepify-knk8.onrender.com,
   headers: {
     "Content-Type": "application/json",
   },
