@@ -1,0 +1,194 @@
+[
+  {
+    "id": "a59acde4",
+    "topic": "python",
+    "questions": [
+      {
+        "question": "Which study method works best for python?",
+        "options": [
+          "Creating flashcards and self-testing",
+          "Highlighting everything",
+          "Re-reading notes passively",
+          "Copying notes word for word"
+        ],
+        "correct_answer": 0,
+        "id": "q1"
+      },
+      {
+        "question": "What is an important aspect of python to remember?",
+        "options": [
+          "Core concepts and their relationships",
+          "Only the definitions",
+          "Just the dates and numbers",
+          "Nothing specific"
+        ],
+        "correct_answer": 0,
+        "id": "q2"
+      },
+      {
+        "question": "What is a key principle of python?",
+        "options": [
+          "Understanding the basics first",
+          "Memorizing everything",
+          "Skipping the fundamentals",
+          "Only reading summaries"
+        ],
+        "correct_answer": 0,
+        "id": "q3"
+      },
+      {
+        "question": "Which of the following best describes python?",
+        "options": [
+          "A fundamental concept in python",
+          "An advanced theory about python",
+          "A historical perspective on python",
+          "A modern approach to python"
+        ],
+        "correct_answer": 0,
+        "id": "q4"
+      },
+      {
+        "question": "How would you best study python?",
+        "options": [
+          "Use active recall and spaced repetition",
+          "Read the textbook once",
+          "Only watch videos",
+          "Cram the night before"
+        ],
+        "correct_answer": 0,
+        "id": "q5"
+      }
+    ],
+    "created_at": "2026-03-19T18:04:59.438312+00:00",
+    "score": 20,
+    "graded_at": "2026-03-19T18:05:22.860620+00:00"
+  },
+  {
+    "id": "401cf020",
+    "topic": "berhampur",
+    "questions": [
+      {
+        "question": "What is Berhampur also known as?",
+        "options": [
+          "The Silk City",
+          "The Cotton City",
+          "The Diamond City",
+          "The Leather City"
+        ],
+        "correct_answer": 0,
+        "id": "q1"
+      },
+      {
+        "question": "In which state of India is Berhampur located?",
+        "options": [
+          "Andhra Pradesh",
+          "Odisha",
+          "Tamil Nadu",
+          "Kerala"
+        ],
+        "correct_answer": 1,
+        "id": "q2"
+      },
+      {
+        "question": "What is the primary language spoken in Berhampur?",
+        "options": [
+          "Hindi",
+          "Telugu",
+          "Odia",
+          "English"
+        ],
+        "correct_answer": 2,
+        "id": "q3"
+      },
+      {
+        "question": "What is Berhampur famous for?",
+        "options": [
+          "Handloom weaving",
+          "Agriculture",
+          "Mining",
+          "IT industry"
+        ],
+        "correct_answer": 0,
+        "id": "q4"
+      },
+      {
+        "question": "Which river flows through Berhampur?",
+        "options": [
+          "Godavari",
+          "Mahanadi",
+          "Subarnarekha",
+          "Bahuda"
+        ],
+        "correct_answer": 3,
+        "id": "q5"
+      }
+    ],
+    "created_at": "2026-03-19T20:14:32.891378+00:00",
+    "score": 80,
+    "graded_at": "2026-03-19T20:14:50.869179+00:00"
+  },
+  {
+    "id": "9d21aaa9",
+    "topic": "reproduction in animals",
+    "questions": [
+      {
+        "question": "What is the process called when an animal produces offspring without fertilization by a male?",
+        "options": [
+          "Budding",
+          "Fragmentation",
+          "Parthenogenesis",
+          "Regeneration"
+        ],
+        "correct_answer": 2,
+        "id": "q1"
+      },
+      {
+        "question": "Which of the following is an example of internal fertilization in animals?",
+        "options": [
+          "Spawning fish",
+          "Mating birds",
+          "Laying eggs",
+          "Giving birth to live young"
+        ],
+        "correct_answer": 3,
+        "id": "q2"
+      },
+      {
+        "question": "What is the term for the release of eggs from the ovaries in female mammals?",
+        "options": [
+          "Ovulation",
+          "Menstruation",
+          "Pregnancy",
+          "Lactation"
+        ],
+        "correct_answer": 0,
+        "id": "q3"
+      },
+      {
+        "question": "In animals, what is the primary function of the placenta during pregnancy?",
+        "options": [
+          "To produce milk for the offspring",
+          "To filter waste from the mother's blood",
+          "To provide oxygen and nutrients to the developing fetus",
+          "To regulate the mother's body temperature"
+        ],
+        "correct_answer": 2,
+        "id": "q4"
+      },
+      {
+        "question": "Which of the following types of reproduction involves the production of offspring that are genetically identical to the parent?",
+        "options": [
+          "Sexual reproduction",
+          "Asexual reproduction",
+          "Budding",
+          "Hybridization"
+        ],
+        "correct_answer": 1,
+        "id": "q5"
+      }
+    ],
+    "created_at": "2026-03-22T14:55:51.491882+00:00",
+    "score": 80,
+    "graded_at": "2026-03-22T14:57:20.207585+00:00"
+  }
+]
